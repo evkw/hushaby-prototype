@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "clothing": "shortSleeveBodySuit",
+        "image": "046-pijama.svg"
+    },
+    {
+        "id": "2",
+        "clothing": "longSleeveBodySuit",
+        "image": "038-pijama-1.svg"
+    },
+    {
+        "id": "3",
+        "clothing": "nappy",
+        "image": "032-diaper.svg"
+    },
+    {
+        "id": "4",
+        "clothing": "singlet",
+        "image": "028-t-shirt.svg"
+    },
+    {
+        "id": "5",
+        "clothing": "sleepingBag",
+        "image": "028-t-shirt.svg"
+    },
+    {
+        "id": "6",
+        "clothing": "swaddle",
+        "image": "028-t-shirt.svg"
+    }
+]

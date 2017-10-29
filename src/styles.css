@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+.content {
+    display: flex;
+    flex-direction: column;
+    width: 75%;
+    min-height: 400px;
+    align-items: center;
+    justify-content: space-around;
+    margin: auto;
+}

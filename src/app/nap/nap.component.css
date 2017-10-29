@@ -1,0 +1,14 @@
+#nap-start-time {
+    font-size: 65px;
+}
+
+.grid-selection {
+    display: flex;
+    justify-content: space-between
+}
+
+.grid-item {
+    height: 100px;
+    width: 100px;
+    background-color: #C2DFEA;
+}

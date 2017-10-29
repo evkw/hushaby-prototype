@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "settle_technique": "pacifier",
+        "image": "003-pacifier.svg"
+    },
+    {
+        "id": "2",
+        "settle_technique": "music",
+        "image": "033-mobile-toy.svg"
+    },
+    {
+        "id": "3",
+        "settle_technique": "rocked",
+        "image": "003-pacifier.svg"
+    },
+    {
+        "id": "4",
+        "settle_technique": "handsOn",
+        "image": "003-pacifier.svg"
+    }
+]

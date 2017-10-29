@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "location": "crib",
+        "image": "022-cradle.svg"
+    },
+    {
+        "id": "2",
+        "location": "bassinet",
+        "image": "025-penguin.svg"
+    },
+    {
+        "id": "3",
+        "location": "car",
+        "image": "005-car-toy.svg"
+    },
+    {
+        "id": "4",
+        "location": "stroller",
+        "image": "014-stroller.svg"
+    },
+    {
+        "id": "5",
+        "location": "bed",
+        "image": "022-cradle.svg"
+    },
+    {
+        "id": "6",
+        "location": "held",
+        "image": "031-rattle-1.svg"
+    }
+]
